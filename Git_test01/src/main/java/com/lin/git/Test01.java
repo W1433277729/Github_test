@@ -9,6 +9,6 @@ public class Test01 {
         System.out.println("hot-fix");
         System.out.println("hot-fix second fix");
         System.out.println("master modification");
-        System.out.println("web modification")
+        System.out.println("web modification");
     }
 }
