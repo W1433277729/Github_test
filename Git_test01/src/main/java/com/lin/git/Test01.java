@@ -7,5 +7,6 @@ public class Test01 {
         System.out.println("second modification");
         System.out.println("third modification");
         System.out.println("hot-fix");
+        System.out.println("hot-fix second fix");
     }
 }
